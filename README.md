@@ -9,10 +9,10 @@ A React native application that allows users to add, check off and delete items 
 <li>Filter out items on the basis of <b>Completed</b> and <b>Pending</b>
 </ol>
 
-![](/demo.png)
+![](/appss.png)
 
 ### The catch!
-With the new to-do-list application, mr. peabody now bosses around Sherman, giving him redundant tasks all through the day. Sherman is in a fit of rage now :)
+With the new to-do-list application, I have increased my productivity and complete all my tasks on time.:)
 
 ### Built with
 
